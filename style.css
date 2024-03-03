@@ -1,0 +1,21 @@
+* {
+    font-family:'Roboto', 'sans-serif';
+}
+
+.container {
+    width: 50%;
+    height: 50vh;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px;
+    text-align: center;
+}
+
+.inner {
+    text-align: center;
+    width: 50%;
+    height: 30vh;
+    background-color: chartreuse;
+    padding: 20px;
+}
